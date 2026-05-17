@@ -28,14 +28,9 @@ Las herramientas existentes están escritas para abogados, en lenguaje técnico,
 |---|---|---|---|
 | 1 | [`orientador-ciudadano`](./orientador-ciudadano/) | Público general — orientación legal en lenguaje cotidiano | ✅ Alpha |
 | 2 | `victimas-ddhh` | Víctimas y sus familias | 🚧 En diseño |
-| 3 | `laboral-mx` | Trabajadores | ✅ Alpha |
+| 3 | [`laboral-mx`](./laboral-mx/) | Trabajadores | ✅ Alpha |
 | 4 | `emprendedor-mx` | Emprendedores y PyMEs | 📋 Planeado |
-| 5 | `litigio-mx` | Abogados litigantes | 📋 Planeado |
-| 6 | `amparo-mx` | Especializado en juicio de amparo | 📋 Planeado |
-| 7 | `internacional-ddhh` | Litigio en CIDH y órganos ONU | 📋 Planeado |
-| 8 | `internacional-ompi` | Propiedad intelectual ante OMPI | 📋 Planeado |
-| 9 | `clinica-juridica-mx` | Clínicas jurídicas universitarias | 📋 Planeado |
-| 10 | `estudiante-derecho-mx` | Estudiantes de derecho | 📋 Planeado |
+
 
 Ver [ROADMAP.md](./ROADMAP.md) para la hoja de ruta detallada.
 
