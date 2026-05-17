@@ -1,0 +1,69 @@
+---
+name: 📍 Actualización de datos (instituciones / servicios gratuitos)
+about: Corregir o agregar datos de instituciones, teléfonos, direcciones, servicios gratuitos por estado.
+title: 'data: [estado o institución]'
+labels: data, good-first-issue
+assignees: ''
+---
+
+## Tipo de actualización
+
+- [ ] Nuevo dato (agregar)
+- [ ] Corrección (datos cambiaron)
+- [ ] Eliminación (institución desapareció o cambió de nombre)
+
+## Archivo afectado
+
+- [ ] `orientador-ciudadano/references/instituciones-mexico.md`
+- [ ] `orientador-ciudadano/references/servicios-gratuitos-estados.md`
+- [ ] `orientador-ciudadano/references/emergencias.md`
+- [ ] Otro: 
+
+## Estado
+
+[Si aplica: CDMX, Puebla, Jalisco, etc., o "Federal"]
+
+## Datos a actualizar
+
+### Institución / Servicio
+
+[Nombre completo]
+
+### Tipo
+
+[Defensoría, CDH, CJM, refugio, OSC, clínica jurídica, línea telefónica, etc.]
+
+### Datos correctos
+
+- **Teléfono:** 
+- **Web:** 
+- **Dirección:** 
+- **Horario:** 
+- **Función específica:** 
+- **Cobertura geográfica:** 
+
+### Datos a corregir (si aplica)
+
+[Qué dato estaba mal antes]
+
+## Fuente de verificación
+
+¿Cómo verificaste estos datos? (al menos una):
+
+- [ ] Llamé al teléfono y confirmé.
+- [ ] Visité la página oficial.
+- [ ] Fui personalmente.
+- [ ] Información de OSC reconocida.
+- [ ] Otro: 
+
+## Fecha de verificación
+
+[Cuándo verificaste]
+
+## Información adicional útil
+
+[Cualquier nota: ej. "el teléfono cambió en abril 2025", "este servicio solo opera en ciertos horarios", "es difícil de contactar, mejor ir personalmente", etc.]
+
+---
+
+**Las contribuciones de datos son las más rápidas de mergear. Las revisamos en 3-7 días.**
