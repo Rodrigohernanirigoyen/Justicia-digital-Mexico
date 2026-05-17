@@ -1,0 +1,72 @@
+---
+name: ✨ Propuesta de nuevo skill
+about: Sugerir un skill nuevo para un plugin existente o un plugin nuevo.
+title: 'feat: [nombre del skill o plugin]'
+labels: enhancement, needs-discussion
+assignees: ''
+---
+
+## Tipo de propuesta
+
+- [ ] Nuevo skill dentro de un plugin existente: [nombre del plugin]
+- [ ] Plugin completamente nuevo
+- [ ] Mejora sustancial de un skill existente
+
+## Nombre propuesto
+
+[Identificador en kebab-case, ej. `pension-alimenticia-calculator`]
+
+## Para quién es
+
+[Descripción de la audiencia: víctimas, trabajadores, ciudadanía general, abogados, etc.]
+
+## Qué hace
+
+[Descripción de la funcionalidad en 3-5 oraciones]
+
+## Por qué hace falta
+
+[Justificación: qué necesidad atiende, por qué los skills existentes no la cubren]
+
+## Cuándo se activaría
+
+[Frases típicas que el usuario diría que dispararían este skill]
+
+## Boceto de comportamiento
+
+[Estructura tentativa: pasos que daría el skill, qué información pediría, qué entregaría]
+
+## Fuentes que consultaría
+
+[Archivos de referencia que necesitaría: leyes, jurisprudencia, glosarios, instituciones, etc.]
+
+## Guardrails clave
+
+[Reglas duras: qué nunca debe hacer este skill]
+
+## Validación legal requerida
+
+- [ ] Abogada/o titulada/o
+- [ ] Estudiante de derecho con visto bueno
+- [ ] OSC especializada en la materia
+
+[Identificar quién podría validar la lógica jurídica del skill]
+
+## Pruebas que sugieres
+
+[Escenarios de prueba que servirían para validar que el skill funciona]
+
+## Trabajo previo / inspiración
+
+[Si hay skills similares en otros plugins, herramientas existentes, papers académicos, etc.]
+
+## Tu rol
+
+- [ ] Quiero escribir el SKILL.md
+- [ ] Solo propongo, alguien más puede tomarlo
+- [ ] Necesito validación legal pero puedo escribir la estructura
+- [ ] Tengo otra contribución (especifica): 
+
+---
+
+**Las propuestas de skills nuevos requieren al menos 7 días de discusión antes de aceptarse para implementación. Las propuestas de plugins nuevos requieren 14 días.**
