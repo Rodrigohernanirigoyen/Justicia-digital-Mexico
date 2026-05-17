@@ -1,0 +1,60 @@
+---
+name: 🐛 Reporte de bug
+about: El plugin dio una respuesta incorrecta, faltó algo crítico, o falló técnicamente.
+title: 'bug: [breve descripción]'
+labels: bug
+assignees: ''
+---
+
+## Plugin afectado
+
+[ej. orientador-ciudadano]
+
+## Versión del plugin
+
+[ej. v0.1.0]
+
+## Skill afectado
+
+[ej. que-hago-si]
+
+## Qué pasó
+
+[Descripción del problema]
+
+## Qué esperaba que pasara
+
+[Comportamiento esperado]
+
+## Prompt que usaste
+
+```
+[Pegar el mensaje exacto del usuario]
+```
+
+## Respuesta del plugin
+
+```
+[Pegar la respuesta exacta del plugin]
+```
+
+## Configuración del CLAUDE.md
+
+- Estado: 
+- Tipo de usuario: 
+- Familiaridad legal: 
+
+## Gravedad
+
+- [ ] 🔴 Crítica (riesgo a la persona, recomendación dañina, omisión de emergencia)
+- [ ] 🟠 Alta (omisión de servicio gratuito, omisión de plazo, identificación incorrecta del área)
+- [ ] 🟡 Media (lenguaje no adaptado, opciones incompletas, disclaimer ausente)
+- [ ] 🟢 Baja (mejoras de claridad, ejemplos, tono)
+
+## Contexto adicional
+
+[Cualquier información relevante: si es caso real (anonimizado), si replicaste el bug varias veces, etc.]
+
+---
+
+**Importante:** Si reportas un bug relacionado con un caso real, **anonimiza todo dato personal** (nombres, direcciones, números de expediente).
