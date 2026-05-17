@@ -1,0 +1,33 @@
+{
+  "name": "orientador-ciudadano",
+  "version": "0.1.0",
+  "description": "Orientación legal ciudadana en lenguaje llano para cualquier persona en México. Explica derechos, mapea instituciones, decodifica documentos legales y conecta con servicios jurídicos gratuitos. No constituye asesoría legal.",
+  "author": "Justicia Digital México",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/justicia-digital-mx/justicia-digital-mx",
+  "jurisdiction": "México",
+  "language": "es-MX",
+  "audience": "público general sin formación jurídica",
+  "tags": [
+    "México",
+    "acceso-a-la-justicia",
+    "lenguaje-ciudadano",
+    "orientación-legal",
+    "derechos-humanos"
+  ],
+  "skills": [
+    "cold-start-interview",
+    "que-hago-si",
+    "donde-acudo",
+    "mis-derechos",
+    "entiendo-mi-documento",
+    "costo-estimador",
+    "servicios-gratuitos-mapper"
+  ],
+  "references": [
+    "references/glosario-ciudadano.md",
+    "references/instituciones-mexico.md",
+    "references/emergencias.md",
+    "references/servicios-gratuitos-estados.md"
+  ]
+}
