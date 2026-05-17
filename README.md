@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Estado: Alpha](https://img.shields.io/badge/Estado-Alpha-orange)](#estado-del-proyecto)
-[![Plugins: 1/10](https://img.shields.io/badge/Plugins-1%2F10-yellow)](#plugins-del-ecosistema)
+[![Plugins: 2/10](https://img.shields.io/badge/Plugins-1%2F10-yellow)](#plugins-del-ecosistema)
 
 ## Qué es esto
 
@@ -28,7 +28,7 @@ Las herramientas existentes están escritas para abogados, en lenguaje técnico,
 |---|---|---|---|
 | 1 | [`orientador-ciudadano`](./orientador-ciudadano/) | Público general — orientación legal en lenguaje cotidiano | ✅ Alpha |
 | 2 | `victimas-ddhh` | Víctimas y sus familias | 🚧 En diseño |
-| 3 | `laboral-mx` | Trabajadores | 🚧 En diseño |
+| 3 | `laboral-mx` | Trabajadores | ✅ Alpha |
 | 4 | `emprendedor-mx` | Emprendedores y PyMEs | 📋 Planeado |
 | 5 | `litigio-mx` | Abogados litigantes | 📋 Planeado |
 | 6 | `amparo-mx` | Especializado en juicio de amparo | 📋 Planeado |
