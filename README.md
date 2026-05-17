@@ -74,10 +74,10 @@ Ver [docs/arquitectura.md](./docs/arquitectura.md) para detalles técnicos.
 
 🟡 **Alpha** — Mayo 2026.
 
-- ✅ Primer plugin (`orientador-ciudadano`) completo y funcional.
-- 🚧 Probándose con usuarios reales en Puebla.
+- ✅ 3/4 plugins (`orientador-ciudadano`) completo y funcional.
+- 🚧 falta probarlo con usuarios reales en Puebla y otras entidades.
 - 🚧 Buscando contribuidores para servicios gratuitos por estado.
-- 📋 Próximo: `victimas-ddhh` y `laboral-mx`.
+- 📋 Próximo: `emprendedor-mx`.
 
 ## Principios del proyecto
 
