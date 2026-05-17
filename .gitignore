@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Datos sensibles (NUNCA commitear)
+casos-reales/
+datos-personales/
+*.casos.md
+*-PRIVADO.md
+.env
+.env.local
+secrets/
+
+# Outputs temporales
+output/
+tmp/
+temp/
+*.tmp
+
+# Tests locales
+test-output/
+*.test.local.md
