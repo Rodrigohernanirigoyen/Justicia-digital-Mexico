@@ -1,0 +1,36 @@
+{
+  "name": "laboral-mx",
+  "version": "0.1.0",
+  "description": "Plugin de orientación y herramientas laborales para trabajadores en México. Cubre despidos, liquidaciones, prestaciones, conciliación, demandas laborales, trabajo del hogar, plataformas digitales y accidentes de trabajo. Incluye calculadora de liquidación con valores 2026 actualizados. Diseñado para trabajadores sin abogado y para abogados que atienden casos laborales.",
+  "author": "Justicia Digital México",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/justicia-digital-mx/justicia-digital-mx",
+  "jurisdiction": "México — Federal (Ley Federal del Trabajo)",
+  "language": "es-MX",
+  "audience": "trabajadores, abogados laboralistas, clínicas jurídicas, OSCs",
+  "tags": [
+    "México",
+    "laboral",
+    "despido",
+    "liquidación",
+    "LFT",
+    "PROFEDET",
+    "trabajadores",
+    "derechos-laborales"
+  ],
+  "skills": [
+    "cold-start-interview",
+    "calculadora-liquidacion",
+    "despido-injustificado-triage",
+    "demanda-laboral-drafter",
+    "conciliacion-prejudicial",
+    "derechos-trabajador-qa",
+    "trabajador-hogar",
+    "plataformas-digitales",
+    "accidente-trabajo"
+  ],
+  "references": [
+    "references/datos-laborales-2026.md",
+    "references/tabla-vacaciones-lft.md"
+  ]
+}
