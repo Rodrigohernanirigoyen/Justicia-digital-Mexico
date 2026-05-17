@@ -1,1 +1,65 @@
+# Pull Request
 
+## Tipo de cambio
+
+- [ ] 🐛 Bug fix
+- [ ] ✨ Nuevo skill
+- [ ] 📦 Plugin nuevo
+- [ ] 📍 Actualización de datos (instituciones, servicios gratuitos)
+- [ ] 📖 Documentación
+- [ ] 🌍 Traducción
+- [ ] 🧪 Caso de prueba
+- [ ] 🔧 Mantenimiento / refactor
+
+## Descripción
+
+[Resumen del cambio. Qué hace, por qué.]
+
+## Issue relacionado
+
+Closes #[número]
+
+## Cambios incluidos
+
+[Lista de archivos modificados y qué se cambió en cada uno]
+
+- `archivo1.md`: [cambio]
+- `archivo2.md`: [cambio]
+
+## Validación legal
+
+> Si el PR modifica lógica jurídica (skills, referencias normativas), marca al menos una:
+
+- [ ] No aplica (PR técnico, datos de contacto, documentación)
+- [ ] Lo revisó un abogado titulado: [@usuario o nombre]
+- [ ] Lo revisó un estudiante avanzado con visto bueno de profesor: [@usuario]
+- [ ] Lo revisó una OSC especializada: [organización]
+- [ ] Soy abogado titulado y certifico la corrección: [cédula profesional opcional]
+
+## Pruebas realizadas
+
+[Si aplica: qué escenarios probaste, qué pasó]
+
+- [ ] Probé el plugin con al menos 3 prompts diferentes.
+- [ ] Verifiqué que el disclaimer aparezca en las respuestas.
+- [ ] Verifiqué que el plugin refiera a servicios gratuitos cuando aplica.
+- [ ] Probé el protocolo de emergencia con un prompt que lo dispare.
+
+## Datos sensibles
+
+- [ ] Confirmo que NO incluí datos personales reales, casos en curso, ni información que comprometa a personas o defensores.
+
+## Cumplimiento del CONTRIBUTING
+
+- [ ] Leí el `CONTRIBUTING.md`.
+- [ ] Sigo el formato estándar de SKILL.md (si aplica).
+- [ ] Incluyo `disclaimer` en cualquier skill nuevo.
+- [ ] Mi commit message sigue el formato `tipo: descripción` (feat, fix, docs, data, etc.).
+
+## Notas para revisores
+
+[Cualquier cosa que el revisor deba saber, considerar, o probar específicamente]
+
+---
+
+**Gracias por contribuir a Justicia Digital México 🇲🇽**
