@@ -4,7 +4,7 @@
 
 Justicia Digital México es un ecosistema open source de plugins de Claude (Anthropic) adaptados al derecho mexicano. El proyecto permite que organizaciones de la sociedad civil (OSCs), clínicas jurídicas universitarias y colectivos de derechos humanos ofrezcan orientación legal gratuita y automatizada a través de WhatsApp — el canal que ya usan entre 78 y 89 millones de personas en México.
 
-Una persona escribe a un número de WhatsApp, describe su problema ("me corrieron del trabajo y no me pagaron nada", "mi hijo desapareció", "mi pareja me golpea"), y recibe orientación inmediata: qué derechos tiene, a dónde acudir, qué pasos seguir, y a quién llamar. Todo en español claro, sin tecnicismos, las 24 horas del día.
+Una persona escribe a un número de WhatsApp, describe su problema y recibe orientación inmediata: qué derechos tiene, a dónde acudir, qué pasos seguir, y a quién llamar. Todo en español claro, sin tecnicismos, las 24 horas del día.
 
 ---
 
@@ -72,8 +72,8 @@ El servidor carga los archivos del plugin (CLAUDE.md, skills, references) como s
 
 | Escenario | Costo mensual | Con descuento Nonprofits (75% off) |
 |---|---|---|
-| OSC mediana: 1,000 consultas/mes | ~$37 USD (~$740 MXN) | ~$15 USD (~$300 MXN) |
-| OSC grande: 10,000 consultas/mes | ~$350 USD (~$7,000 MXN) | ~$120 USD (~$2,400 MXN) |
+| OSC mediana: 1,000 consultas/mes | $37 USD (~$740 MXN) | ~$15 USD (~$300 MXN) |
+| OSC grande: 10,000 consultas/mes | $350 USD (~$7,000 MXN) | ~$120 USD (~$2,400 MXN) |
 
 Incluye: Claude API (Sonnet 4.6 con caching), hosting (Railway/Render), WhatsApp Cloud API, y Redis.
 
